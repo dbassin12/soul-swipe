@@ -1,0 +1,5 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="8 8 32 32"><style>@media (prefers-color-scheme: light){.a{stroke:#24449B}.b{stroke:#C2902A}}</style><defs>
+<mask id="ma" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48"><rect width="48" height="48" fill="#fff"/><circle cx="24" cy="13.88" r="3.8" fill="#000"/><circle cx="24" cy="34.12" r="3.8" fill="#000"/></mask>
+<mask id="mb" maskUnits="userSpaceOnUse" x="0" y="0" width="48" height="48"><rect width="48" height="48" fill="#fff"/><circle cx="13.88" cy="24" r="3.8" fill="#000"/><circle cx="34.12" cy="24" r="3.8" fill="#000"/></mask></defs>
+<g mask="url(#ma)"><ellipse class="a" cx="24" cy="24" rx="16" ry="8" transform="rotate(45 24 24)" fill="none" stroke="#F3EAD6" stroke-width="3.2" stroke-linecap="round"/></g>
+<g mask="url(#mb)"><ellipse class="b" cx="24" cy="24" rx="16" ry="8" transform="rotate(-45 24 24)" fill="none" stroke="#E2B65E" stroke-width="3.2" stroke-linecap="round"/></g></svg>

@@ -1,0 +1,28 @@
+{
+  "name": "Soul Swipe",
+  "short_name": "Soul Swipe",
+  "description": "A shidduch app prototype: shadchanim, research, family, and Shabbos.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#F3F4F8",
+  "theme_color": "#F3F4F8",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "scope": "./"
+}
